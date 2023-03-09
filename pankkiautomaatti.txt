@@ -1,0 +1,22 @@
+syötä kortti
+	tunnusluku
+		saldo
+			tilinsaldo
+				xxx.xx
+			nostoraja
+				xxx.xx
+			takaisin
+		otto
+			haluama summa
+				20,40,60,80,100, muu summa?
+							kuitti?
+								rahat tulossa, kirjaudu ulos
+			takaisin
+		puheaika lataus
+			dna, saunalahti, elisa?
+					syötä puhelinnumero
+							summa?
+								hyväksy
+							takaisin
+		tapahtumat
+			tulostaa mitä tilin tapahtumat
